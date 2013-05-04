@@ -11,5 +11,3 @@ gem "susy", "~>1.0.5"
 gem "redcarpet"
 
 gem 'haml'
-
-gem 'coffee-filter' # Coffeescript filter for HAML
